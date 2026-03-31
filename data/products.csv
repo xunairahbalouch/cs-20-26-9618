@@ -1,0 +1,11 @@
+ProductID,Name,Category,Price,Stock
+P001,MacBook Pro,Laptops,2499.00,15
+P002,Dell XPS 13,Laptops,1299.00,25
+P003,AirPods Pro,Audio,249.00,50
+P004,Sony WH-1000XM4,Audio,349.00,30
+P005,iPhone 15,Smartphones,999.00,40
+P006,Galaxy S24,Smartphones,899.00,35
+P007,iPad Pro,Tablets,1099.00,20
+P008,Apple Watch,Wearables,399.00,45
+P009,Mechanical Keyboard,Accessories,149.00,60
+P010,4K Monitor,Monitors,599.00,18

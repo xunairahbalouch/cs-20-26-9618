@@ -1,0 +1,11 @@
+RouteID,Origin,Destination,Distance,Duration,Price
+RT001,London,Paris,344,135,89.00
+RT002,London,Amsterdam,370,245,95.00
+RT003,Paris,Berlin,1054,420,129.00
+RT004,London,Edinburgh,632,270,75.00
+RT005,Paris,Rome,1410,690,149.00
+RT006,Berlin,Munich,585,245,79.00
+RT007,Amsterdam,Brussels,211,125,45.00
+RT008,London,Barcelona,1435,755,159.00
+RT009,Paris,Madrid,1264,600,139.00
+RT010,London,Frankfurt,650,265,99.00

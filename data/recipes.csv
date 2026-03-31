@@ -1,0 +1,11 @@
+RecipeID,Name,Cuisine,PrepTime,CookTime,Difficulty,Servings
+R001,Spaghetti Carbonara,Italian,15,20,Medium,4
+R002,Chicken Tikka Masala,Indian,20,30,Medium,4
+R003,Caesar Salad,American,10,0,Easy,2
+R004,Beef Wellington,French,30,45,Hard,4
+R005,Vegetable Stir Fry,Chinese,10,15,Easy,3
+R006,Margherita Pizza,Italian,20,15,Medium,4
+R007,Pad Thai,Thai,15,20,Medium,2
+R008,Greek Salad,Mediterranean,10,0,Easy,2
+R009,Beef Burger,American,15,15,Easy,2
+R010,Sushi Rolls,Japanese,45,30,Hard,4
