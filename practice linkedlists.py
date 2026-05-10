@@ -80,16 +80,6 @@ def insertionsort(arr):
             arr[position] = arr[position-1]
             arr[position] = current 
 
-         #insertionsort
-def insertionsort(arr):
-    for x in range(1, arr(len)):
-        current = arr[x]
-        position = x
-
-    while current > 0 and arr[position -1] > current:
-        arr[position] = arr[position -1]
-
-    arr[position] = current
 
 #bubble sort
 def bubbleSort(arr):
